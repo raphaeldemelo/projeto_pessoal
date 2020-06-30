@@ -1,0 +1,2 @@
+body{background:#151515}.site{flex-direction:column}.container,.site{display:flex;align-items:center;justify-content:center}.container{margin-top:50px;flex:1 1}.perfil h1{color:#fff}.perfil img{margin-left:15px;border-radius:300px}.perfil:hover img{transition:.3s;transform:scale(1.1);-webkit-transform:scale(1.1)}.descricao{background:#2c2c2c;border-radius:15px}.descricao h1{margin:20px;font-size:20px;font-weight:400;color:#fff}.redesocial button{cursor:pointer;border:none;background:none;color:#8a3a2a;margin:50px}
+/*# sourceMappingURL=main.e9cf1da5.chunk.css.map */
