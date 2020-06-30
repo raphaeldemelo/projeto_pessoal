@@ -8,7 +8,7 @@ export default function Main() {
         <div className="site">
             <div className="container">
                 <div className="perfil">
-                    <img src={perfil} alt="foto de perfil" width="200" />
+                    <img src={perfil} alt="foto de perfil" width="200"/>
                     <h1>Raphael de Melo</h1>
                 </div>
             </div>
