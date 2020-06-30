@@ -1,0 +1,52 @@
+body{
+    background: #59261c;
+}
+
+.site{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.container{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.perfil h1{   
+    color:#BD4E37;
+
+}
+
+.perfil img{
+    border-radius: 300px;
+    border: 10px solid #8A3A2A;;
+}
+.perfil:hover img{
+    transition: 0.3s;
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+}
+
+.descricao{
+    background: #8A3A2A;
+    border-radius: 15px;
+}
+
+.descricao h1{
+    margin: 20px;
+    font-size: 25px;
+    font-weight: normal;
+}
+
+
+.redesocial button{
+    cursor: pointer;
+    border: none;
+    background: none;
+    color: #8A3A2A;
+    margin: 50px;
+
+}
