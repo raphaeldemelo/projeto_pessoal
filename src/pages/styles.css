@@ -1,6 +1,5 @@
 body{
-    /*background: #59261c;*/
-    background: #000055;
+    background: #151515;
 }
 
 .site{
@@ -8,12 +7,16 @@ body{
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    
 }
 
 .container{
     margin-top: 50px;
     display: flex;
+    flex: 1;
+    align-items: center;
     justify-content: center;
+   
 }
 
 .perfil h1{   
@@ -22,8 +25,8 @@ body{
 }
 
 .perfil img{
+    margin-left: 15px;
     border-radius: 300px;
-    border: 10px solid #818181;
 }
 .perfil:hover img{
     transition: 0.3s;
@@ -32,8 +35,9 @@ body{
 }
 
 .descricao{
-    background: #818181;
+    background: rgb(44,44 , 44);
     border-radius: 15px;
+    
 }
 
 .descricao h1{
