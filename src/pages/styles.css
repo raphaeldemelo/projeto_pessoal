@@ -32,6 +32,10 @@ body{
     justify-content: center;
     margin-left: 18px;
     border-radius: 300px;
+    position: relative;
+
+
+
 }
 .perfil:hover img{
     transition: 0.3s;
@@ -42,6 +46,9 @@ body{
 .descricao{
     background: rgb(44,44 , 44);
     border-radius: 15px;
+    margin-left:  10px;
+    margin-right: 10px;
+    width: 300px;
     
 }
 
